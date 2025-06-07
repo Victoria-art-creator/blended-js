@@ -1,0 +1,8 @@
+// function randomInRange(min, max) {
+//   // return Math.floor(Math.random() * (max - min) ); 
+// від 0 до але не включно максимум
+//   // return Math.floor(Math.random() * (max - min) + min); 
+// Максимум не включается, минимум включается
+//   return Math.floor(Math.random() * (max - min + 1) + min); //   включно мінімальне і максимальне значення
+// }
+
